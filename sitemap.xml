@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/posts/text-and-typography/</loc>
+<lastmod>2019-08-08T03:33:00+00:00</lastmod>
+</url>
+<url>
+<loc>/categories/</loc>
+<lastmod>2022-09-03T13:41:15+00:00</lastmod>
+</url>
+<url>
+<loc>/tags/</loc>
+<lastmod>2022-09-03T13:41:15+00:00</lastmod>
+</url>
+<url>
+<loc>/archives/</loc>
+<lastmod>2022-09-03T13:41:15+00:00</lastmod>
+</url>
+<url>
+<loc>/about/</loc>
+<lastmod>2022-09-03T13:41:15+00:00</lastmod>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/tags/typography/</loc>
+</url>
+<url>
+<loc>/categories/blogging/</loc>
+</url>
+<url>
+<loc>/categories/demo/</loc>
+</url>
+</urlset>
